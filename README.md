@@ -24,4 +24,7 @@ This project, titled *Simple User Database App with Gradio*, is a web-based appl
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/gurpreetsinghwsu/project>
+   git clone https://github.com/gurpreetsinghwsu/project
+   cd simple-user-database-app
+   python main.py
+
